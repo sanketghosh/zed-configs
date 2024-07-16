@@ -1,2 +1,5 @@
-# zed-configs
-my configurations for zed text editor
+# Zed Config
+
+---
+
+My configurations for Zed text editor. File location `~/.config/zed/settings.json`

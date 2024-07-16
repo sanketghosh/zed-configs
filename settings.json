@@ -1,0 +1,35 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+
+/**
+
+This file contains the configurations for my zed text editor. 
+File location: ~/.config/zed/settings.json
+
+*/
+
+{
+  "ui_font_size": 16,
+  "buffer_font_size": 18,
+  "enable_language_server": true,
+  "buffer_font_family": "JetBrains Mono",
+
+  "format_on_save": "on",
+  "soft_wrap": "editor_width",
+  "theme": "Gruvbox Dark",
+
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": false
+  },
+
+  "project_panel": {
+    "dock": "right"
+  }
+}
